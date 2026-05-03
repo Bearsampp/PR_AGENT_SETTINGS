@@ -2,7 +2,7 @@
 handle_push_trigger = true
 push_commands = [
     "/describe",
-    "/review",
+    "/agentic_review",
     "/improve",
 ]
 
