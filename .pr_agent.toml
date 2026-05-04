@@ -3,7 +3,6 @@ handle_push_trigger = true
 push_commands = [
     "/describe",
     "/agentic_review",
-    "/improve",
 ]
 
 [pr_reviewer]
